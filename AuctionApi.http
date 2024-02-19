@@ -1,0 +1,6 @@
+@AuctionApi_HostAddress = http://localhost:5039
+
+GET {{AuctionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
